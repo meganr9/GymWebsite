@@ -1,0 +1,21 @@
+.membershipCard > button{
+    background-color: whitesmoke;
+    border: 1px;
+    border-radius: 20px;
+    border-width: 2px;
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    padding:0 6px;
+    margin: 4px 2px;
+    font-size: large;
+
+}
+
+.membershipCard {
+    background-color: #814040;
+    padding: 10pt;
+    border-radius: 20PX;
+    font-size: x-large;
+    margin:6px;
+}

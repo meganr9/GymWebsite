@@ -1,0 +1,60 @@
+header {
+    background-color: #2d2421;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    padding: 20px;
+}
+
+header>div>a {
+    background-color: whitesmoke;
+    border: 1px;
+    border-radius: 20px;
+    border-width: 2px;
+    margin: 6px;
+    text-decoration: none;
+    color: black;
+    padding:0 6px;
+    margin: 4px 2px;
+}
+.mainHeaderGroup {
+    width: fit-content;
+    margin: auto;
+}
+
+.mainBody {
+    width: fit-content;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+.padded-20 {
+    margin: 0 20%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: #2d2421;
+    color: grey;
+    left: 0px;
+    width: 100%;
+    padding: 6px;
+}
+
+body {
+    margin: 0;
+}
+
+.white-background {
+    background-color: #e6dfcd;
+    padding: 6px;
+}
+
+.border {
+    border-color: #2d2421;
+    border: 2px;
+    border-radius: 10px;
+}
